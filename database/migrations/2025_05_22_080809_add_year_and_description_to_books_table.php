@@ -20,4 +20,4 @@ public function down()
         $table->dropColumn(['publisher', 'isbn']);
     });
 }
-}
+};
